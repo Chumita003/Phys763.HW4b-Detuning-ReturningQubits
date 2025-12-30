@@ -1,0 +1,12 @@
+# Data and experimental outputs (not tracked)
+data
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
