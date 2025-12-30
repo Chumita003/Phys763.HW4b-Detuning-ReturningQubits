@@ -53,6 +53,14 @@ Through this assignment, I developed experience in:
 
 ---
 
+## Skills Demonstrated 
+
+- Qubit calibration and benchmarking using QOLab / Qualibrate
+- Randomized benchmarking analysis and error extraction
+- Pulse detuning and retuning via Power Rabi
+- Physical interpretation of gate errors and SPAM fidelity
+- Python scripting with xarray, scipy, pandas, and matplotlib
+
 ## Usage
 
 This notebook is intended to be **read and reviewed**, rather than executed independently.
