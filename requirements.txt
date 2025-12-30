@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+xarray
+scipy
+
+# Quantum Machines / QOLab stack
+qm-qua
+qualang-tools
+quam-libs
