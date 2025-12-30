@@ -61,6 +61,8 @@ Through this assignment, I developed experience in:
 - Physical interpretation of gate errors and SPAM fidelity
 - Python scripting with xarray, scipy, pandas, and matplotlib
 
+---
+
 ## Usage
 
 This notebook is intended to be **read and reviewed**, rather than executed independently.
