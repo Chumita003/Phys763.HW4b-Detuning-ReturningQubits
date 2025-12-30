@@ -55,21 +55,10 @@ Through this assignment, I developed experience in:
 
 ## Usage
 
-To run the notebook locally:
+This notebook is intended to be **read and reviewed**, rather than executed independently.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Chumita003/Phys763.HW4b-QolabCalibration.git
-   cd Phys763.HW4b-QolabCalibration
+It depends on experimental datasets and calibration infrastructure available through the **QOLab / Qualibrate environment used in PHY 763**, which are not publicly accessible.
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+For this reason, the `data` directory is intentionally excluded from this repository.
 
-3. Ensure that any required data folders are located in the same directory as the notebook, as datasets are loaded directly from disk.
-
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook PHY763_HW4b.ipynb
-
-5. Run all cells to reproduce the analysis and figures.
+The notebook and accompanying PDF are provided to illustrate the **full analysis workflow, methodology, and physical interpretation** of the experiments.
